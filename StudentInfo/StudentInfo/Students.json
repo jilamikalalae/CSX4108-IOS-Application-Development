@@ -1,0 +1,38 @@
+{
+"uni": "Assumption University",
+  "Students" : [
+	{
+        "name" : "Inchy",
+	   "age" : 18,
+       "address": {
+           "province":"kuy",
+           "district": "na hee"
+       }
+	},
+	{ 
+    	   "name" : "John",
+	   "age" : 21,
+       "address": {
+           "province":"",
+           "district": ""
+       }
+	},
+	{  
+    	   "name" : "Jack",
+	   "age" : 22,
+       "address": {
+           "province":"",
+           "district": ""
+       }
+	},
+	{ 
+    	   "name" : "March",
+	   "age" : 19,
+       "address": {
+           "province":"",
+           "district": ""
+       }
+	}
+
+  ]
+}
